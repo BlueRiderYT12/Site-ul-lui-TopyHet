@@ -1,0 +1,47 @@
+@font-face {
+	font-family: StayPixel;
+	src: url(fonts/font.ttf) format("truetype");
+}
+
+#background {
+	background-image: url(images/background.png);
+}
+
+#font {
+	font-family: StayPixel;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+}
+
+#top {
+	font-size: 100px;
+}
+
+#text {
+	font-size: 35px;
+}
+
+#img {
+	border-radius: 30px;
+	border-color: gray;
+}
+
+#youtube {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+#discord {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+#twitter {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+#scratch {
+	margin-left: 3px;
+	margin-right: 3px;
+}
